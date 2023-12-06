@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<title>ALL About My Self</title>
+<body style="background:url('backrground.jpg')">
+<h1>All About My Self</h1>
+<image src="C:\Users\Joris\Desktop\Aguarin/ris.jpg" alt="Profile Picture" style= width="400px" height="400px">
+<p>Name: Joris O. Aguarin<br>Age: 21 <br>Address: Caloocan City <br>Motto: Live each day as if it were your last. <br>Unique Talent: Playing Instrumen(Guitar), Singing </p>
+
+<h2>Achievements</h2>
+<p> I think my achievement so far is that in my high school day's i have a band called "Aparatos" and we perform in our school. </p>
+<image src="C:\Users\Joris\Desktop\Aguarin\aparatosimage1.jpg" alt="band picture" style=width="300px"height="350px">
+<image src="C:\Users\Joris\Desktop\Aguarin\aparatosimage2.jpg" alt="band picture" style=width="300px"height="350px">
+<p>This is the song that we made check it out! </p>
+<video width="1250" height="720" controls>
+<source src="C:\Users\Joris\Desktop\Aguarin\Panaginip.mp4" type="video/mp4">
+</video>
+</body>
+</html>
